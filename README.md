@@ -9,4 +9,4 @@ In this repository, I shall be sharing all the resources of the case study of I 
 
 Datasets used for this study : https://github.com/r-sumanth/ford_India_return/tree/raw_data
 
-Prework (Data Wrangling) of Analysis : https://github.com/r-sumanth/ford_India_return/tree/data_wrangling
+Prework (Data Wrangling) for the Analysis : https://github.com/r-sumanth/ford_India_return/tree/data_wrangling
